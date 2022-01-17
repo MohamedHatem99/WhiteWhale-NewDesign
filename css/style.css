@@ -56,11 +56,11 @@ nav {
   background-color: var(--MainColor);
 }
 /* Start MainImgSlider */
-#MainImgSlider {
+.MainImgSlider {
   position: relative;
 }
-#MainImgSlider .carousel-item,
-#MainImgSlider .carousel-inner {
+.MainImgSlider .carousel-item,
+.MainImgSlider .carousel-inner {
   max-height: 88vh;
   overflow: hidden;
 }
